@@ -1,0 +1,16 @@
+Enter Matrix1 : 
+Enter number rows and columns : 1 1
+Enter [1 0] value : 1 0
+
+Enter Matrix2 :
+Enter number rows and columns : 2 3
+
+Matrix1 :
+2
+
+Matrix2 :
+
+Transpose of Matrix1 is :
+2
+
+Matrix1 and Matrix2 connot multiply
