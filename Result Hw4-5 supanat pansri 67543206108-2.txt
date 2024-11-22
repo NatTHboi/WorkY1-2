@@ -1,0 +1,6 @@
+Case1:
+Input Days : 8
+8 days = 691200 seconds
+Case2:
+Input Days : 27
+27 days = 2332800 seconds
