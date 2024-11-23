@@ -1,0 +1,8 @@
+Case1:
+Enter 4 character :
+L M Y K
+Result : K Y M L
+Case2:
+Enter 4 character : 
+A B C D
+Result : D C B A
