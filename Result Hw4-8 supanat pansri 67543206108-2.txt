@@ -1,0 +1,6 @@
+Case1:
+Please enter hexadecimal number: FB
+Binary code : 11111011
+Case2:
+Please enter hexadecimal number: 19
+Binary code : 00011001
