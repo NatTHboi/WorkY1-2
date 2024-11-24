@@ -1,0 +1,6 @@
+Case1:
+Please enter the number 1 - 30 only : 12
+Twelve
+Case2:
+Please enter the number 1 - 30 only : 4
+Four
