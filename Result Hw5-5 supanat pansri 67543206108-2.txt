@@ -1,0 +1,6 @@
+Case1:
+Please enter the number : 15
+15 is an odd integer
+Case2:
+Please enter the number : -22
+-22 is an even integer
