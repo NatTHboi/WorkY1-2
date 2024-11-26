@@ -1,0 +1,6 @@
+Case1:
+Please enter the number : 49
+Positive
+Case2:
+Please enter the number : -90
+Negative
