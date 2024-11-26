@@ -1,0 +1,14 @@
+Case1:
+Please enter 3 numbers :
+12 25 52
+1st Number = 12
+2nd Number = 25
+3rd Number = 52
+The 3rd Number is the greatest among three
+Case2:
+Please enter 3 numbers : 
+89 54 72
+1st Number = 89
+2nd Number = 54
+3rd Number = 72
+The 1st Number is the greatest among three
