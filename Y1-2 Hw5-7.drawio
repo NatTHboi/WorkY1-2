@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="หน้า-1" id="ZbbUjK4yAUsXquaDZoqD">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OQeibFrcchGMEd36HhdT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-1" target="OQeibFrcchGMEd36HhdT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-2" target="OQeibFrcchGMEd36HhdT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-2" value="Input year" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-6" value="F" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-4" target="OQeibFrcchGMEd36HhdT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-9" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-4" target="OQeibFrcchGMEd36HhdT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-4" value="If year / 4 and / 100 =0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="330" width="136" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-11" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-5" target="OQeibFrcchGMEd36HhdT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-13" value="F" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-5" target="OQeibFrcchGMEd36HhdT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-5" value="If year /4 and /400 = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-8" target="OQeibFrcchGMEd36HhdT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-8" value="Output February has 29 days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="500" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-10" target="OQeibFrcchGMEd36HhdT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-10" value="Output February has 29 days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="500" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-15" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-12" target="OQeibFrcchGMEd36HhdT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-17" value="F" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-12" target="OQeibFrcchGMEd36HhdT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-12" value="If year /4 and /100 = 0 but /400 != 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="330" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-14" target="OQeibFrcchGMEd36HhdT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-14" value="Output February has 28 days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="843.75" y="500" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-16" target="OQeibFrcchGMEd36HhdT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-16" value="Output February has 28 days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="340" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-18" target="OQeibFrcchGMEd36HhdT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="580" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-20" target="OQeibFrcchGMEd36HhdT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="580" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQeibFrcchGMEd36HhdT-25" target="OQeibFrcchGMEd36HhdT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="630" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OQeibFrcchGMEd36HhdT-28" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
