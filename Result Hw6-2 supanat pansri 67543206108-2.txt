@@ -1,0 +1,12 @@
+Case1:
+Enter a number (1-3999): 8
+Roman numeral: VIII
+Case2:
+Enter a number (1-3999): 4
+Roman numeral: IV
+Case3:
+Enter a number (1-3999): 514
+Roman numeral: DXIV
+Case4:
+Enter a number (1-3999): 929
+Roman numeral: CMXXIX
