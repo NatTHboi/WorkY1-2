@@ -1,0 +1,12 @@
+Case1:
+Enter score: 80
+A !
+Case2:
+Enter score: 55
+D+ !
+Case3:
+Enter score: 64
+C !
+Case4:
+Enter score: 44
+F !
