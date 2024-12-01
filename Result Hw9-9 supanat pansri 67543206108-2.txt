@@ -1,0 +1,13 @@
+Case1:
+Array1 element: 
+3 3
+Array2 element: 
+3 3
+Input Array1:
+1 2 3 4 5 6 7 8 9
+Input Array2:
+1 1 1 1 1 1 1 1 1
+Array1 + Array2 = Array3
+2 3 4
+5 6 7
+8 9 10
