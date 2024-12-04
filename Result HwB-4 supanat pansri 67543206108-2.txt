@@ -1,0 +1,6 @@
+Case1:
+Enter the number of terms: 3
+Sum = 12
+Case2:
+Enter the number of terms: 6
+Sum = 888
