@@ -1,0 +1,6 @@
+Case1:
+Enter your full name: Kittinan Noimanee
+Name: Kittinan Noimanee
+Case2:
+Enter your full name: Visual Studio Code
+Name: Visual Studio Code
