@@ -1,0 +1,27 @@
+Case1:
+Enter 10 heights:
+Height[0]: 159
+Height[1]: 168
+Height[2]: 191
+Height[3]: 188
+Height[4]: 154
+Height[5]: 152
+Height[6]: 167
+Height[7]: 165
+Height[8]: 178
+Height[9]: 177
+
+Enter 10 ages:
+Age[0]: 18
+Age[1]: 19
+Age[2]: 18
+Age[3]: 17
+Age[4]: 16
+Age[5]: 18
+Age[6]: 17
+Age[7]: 18
+Age[8]: 18
+Age[9]: 18
+
+Max Height = 191
+Max Age = 19
