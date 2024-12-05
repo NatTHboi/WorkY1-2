@@ -1,0 +1,22 @@
+Case1:
+Enter information for Person A:
+Name: Mai
+Age: 24
+Sex (M/F): M
+Score: 99.99
+
+Enter information for Person B:
+Name: Mon
+Age: 21
+Sex (M/F): F
+Score: 87.60
+
+--| Person A Information |--
+Name : Mai (M)
+Age : 24 years old
+Score : 99.99 points
+
+--| Person B Information |--
+Name : Mon (F)
+Age : 21 years old
+Score : 87.60 points
