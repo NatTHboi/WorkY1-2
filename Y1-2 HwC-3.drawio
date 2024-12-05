@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="หน้า-1" id="caE3stl09hQpyBwmB7wa">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-1" target="wu_X6CNraZPn9N3VMMo3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-2" target="wu_X6CNraZPn9N3VMMo3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-2" value="Input y / n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-7" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-4" target="wu_X6CNraZPn9N3VMMo3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-26" value="F" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-4" target="wu_X6CNraZPn9N3VMMo3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-4" value="Input = y" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-6" target="wu_X6CNraZPn9N3VMMo3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-6" value="Input Name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-8" target="wu_X6CNraZPn9N3VMMo3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-8" value="Input Salary" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-10" target="wu_X6CNraZPn9N3VMMo3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-10" value="Input Duration" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-12" target="wu_X6CNraZPn9N3VMMo3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-12" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-18" value="Count n + 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.9;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-18" target="wu_X6CNraZPn9N3VMMo3-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1130" />
+              <mxPoint x="490" y="1130" />
+              <mxPoint x="490" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-25" target="wu_X6CNraZPn9N3VMMo3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-25" value="Find Sum of Salary" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-29" target="wu_X6CNraZPn9N3VMMo3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-29" value="Find Average Salary =&lt;div&gt;Sum Salary / n&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-31" target="wu_X6CNraZPn9N3VMMo3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-31" value="Output Average Salary" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-33" target="wu_X6CNraZPn9N3VMMo3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-33" value="Output Sum Salary" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wu_X6CNraZPn9N3VMMo3-35" target="wu_X6CNraZPn9N3VMMo3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-35" value="Output The Most high duration employee info" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="1030" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wu_X6CNraZPn9N3VMMo3-37" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="1169" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
