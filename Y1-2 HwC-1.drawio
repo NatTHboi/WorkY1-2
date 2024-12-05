@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="หน้า-1" id="WRvuwc5FIul50xBX2R84">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-1" target="FKxW_YR0oRNoYf-TSKVU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-2" target="FKxW_YR0oRNoYf-TSKVU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-2" value="Input Name1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-4" target="FKxW_YR0oRNoYf-TSKVU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-4" value="Input Age1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-6" target="FKxW_YR0oRNoYf-TSKVU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-6" value="Input Gender1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-8" target="FKxW_YR0oRNoYf-TSKVU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-8" value="Input Score1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-10" target="FKxW_YR0oRNoYf-TSKVU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-10" value="Input Name2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-12" target="FKxW_YR0oRNoYf-TSKVU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-12" value="Input Age2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-14" target="FKxW_YR0oRNoYf-TSKVU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-14" value="Input Gender2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-16" target="FKxW_YR0oRNoYf-TSKVU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-16" value="Input Score2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-18" target="FKxW_YR0oRNoYf-TSKVU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-18" value="Output Name1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-20" target="FKxW_YR0oRNoYf-TSKVU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-20" value="Output Age1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-22" target="FKxW_YR0oRNoYf-TSKVU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-22" value="Output Gender1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-24" target="FKxW_YR0oRNoYf-TSKVU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-24" value="Output Score1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-26" target="FKxW_YR0oRNoYf-TSKVU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-26" value="Output Name2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-28" target="FKxW_YR0oRNoYf-TSKVU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-28" value="Output Age2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-30" target="FKxW_YR0oRNoYf-TSKVU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-30" value="Output Gender2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKxW_YR0oRNoYf-TSKVU-32" target="FKxW_YR0oRNoYf-TSKVU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-32" value="Output Score2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKxW_YR0oRNoYf-TSKVU-34" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2420" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
