@@ -1,0 +1,33 @@
+Case1:
+Enter information for Student A:
+Name: Yorn
+Score: 21.42
+Enter information for Student B:
+Name: Omen
+Score: 56.00
+Enter information for Student C:
+Name: Alice
+Score: 80.75
+Enter information for Student D:
+Name: Violet
+Score: 67.76
+
+Alice Violet Omen Yorn
+80.75 67.76 56.00 21.42
+
+Case2:
+Enter information for Student A:
+Name: Payna
+Score: 77.77
+Enter information for Student B:
+Name: Zanis
+Score: 88.88
+Enter information for Student C:
+Name: Lubu
+Score: 66.66
+Enter information for Student D:
+Name: Krixi
+Score: 99.99
+
+Krixi Zanis Payna Lubu
+99.99 88.88 77.77 66.66
