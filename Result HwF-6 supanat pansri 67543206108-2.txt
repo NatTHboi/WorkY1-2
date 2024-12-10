@@ -1,0 +1,6 @@
+Case1:
+Programmer: Pong(32 yrs) 45000.00 Bath
+Support: Aoy(24 yrs) 33250.00 Bath
+Founder: Yot(28 yrs) 50000.00 Bath
+HR: Pot(31 yrs) 24500.00 Bath
+Average Salary: 33678.57 Bath
