@@ -1,0 +1,45 @@
+Case1:
+Employee 1's Name : 
+Omar
+Salary (Bath/Month) : 
+12750
+Employee 2's Name : 
+Alice
+Salary (Bath/Month) : 
+15900
+Employee 3's Name : 
+Max
+Salary (Bath/Month) : 
+19860
+Employee 4's Name : 
+-1
+
+All salary per month: 48510.00 Bath
+All salary per year: 582120.00 Bath
+Tax (7% per year) : 40748.40 Bath
+Most tax in company : Max (16682.40 Bath per year)
+
+Case2:
+Employee 1's Name : 
+John
+Salary (Bath/Month) : 
+15780
+Employee 2's Name : 
+Oven
+Salary (Bath/Month) : 
+16890
+Employee 3's Name : 
+May
+Salary (Bath/Month) : 
+17870
+Employee 4's Name : 
+Bill
+Salary (Bath/Month) : 
+22100
+Employee 5's Name : 
+-1
+
+All salary per month: 72640.00 Bath
+All salary per year: 871680.00 Bath
+Tax (7% per year) : 61017.60 Bath
+Most tax in company : Bill (18564.00 Bath per year)
