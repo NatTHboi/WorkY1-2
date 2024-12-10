@@ -1,0 +1,9 @@
+Case1:
+Enter a string: Hello world
+Reversed string: dlrow olleH
+Case2:
+Enter a string: RMUTL
+Reversed string: LTUMR
+Case3:
+Enter a string: Orio
+Reversed string: oirO
