@@ -1,0 +1,10 @@
+Case1:
+Read File to A is 2
+Input value from user to B: 12
+Input value from user is 12
+Answer = 14
+Case2:
+Read File to A is 2
+Input value from user to B: 20
+Input value from user is 20
+Answer = 22
