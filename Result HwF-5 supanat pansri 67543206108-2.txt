@@ -1,0 +1,4 @@
+Average : 27.29 Years
+Pong(32) : 45000 Bath
+Pot(31) : 24500 Bath
+Yot(28) : 50000 Bath
