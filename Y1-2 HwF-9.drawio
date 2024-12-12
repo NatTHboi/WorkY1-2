@@ -1,9 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="หน้า-1" id="PMKHTqm85fGWhyKRhXMs">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_HqEb-1ig0JqO6aPxItt-1" target="_HqEb-1ig0JqO6aPxItt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_HqEb-1ig0JqO6aPxItt-2" target="_HqEb-1ig0JqO6aPxItt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-2" value="Read flie" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_HqEb-1ig0JqO6aPxItt-4" target="_HqEb-1ig0JqO6aPxItt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-4" value="A = U&lt;div&gt;B = V&lt;/div&gt;&lt;div&gt;C = W&lt;/div&gt;&lt;div&gt;D = X&lt;/div&gt;&lt;div&gt;E = Y&lt;/div&gt;&lt;div&gt;F = Z&lt;/div&gt;&lt;div&gt;G = A&lt;/div&gt;&lt;div&gt;H = B&lt;/div&gt;&lt;div&gt;I = C&lt;/div&gt;&lt;div&gt;J = D&lt;/div&gt;&lt;div&gt;K = E&lt;/div&gt;&lt;div&gt;L = F&lt;/div&gt;&lt;div&gt;M = G&lt;/div&gt;&lt;div&gt;N = H&lt;/div&gt;&lt;div&gt;O = I&lt;/div&gt;&lt;div&gt;P = J&lt;/div&gt;&lt;div&gt;Q = K&lt;/div&gt;&lt;div&gt;R = L&lt;/div&gt;&lt;div&gt;S = M&lt;/div&gt;&lt;div&gt;T = N&lt;/div&gt;&lt;div&gt;U = O&lt;/div&gt;&lt;div&gt;V = P&lt;/div&gt;&lt;div&gt;W = Q&lt;/div&gt;&lt;div&gt;X = R&lt;/div&gt;&lt;div&gt;Y = S&lt;/div&gt;&lt;div&gt;Z = T&lt;/div&gt;&lt;div&gt;read form right to left&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_HqEb-1ig0JqO6aPxItt-6" target="_HqEb-1ig0JqO6aPxItt-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-6" value="Output Word" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_HqEb-1ig0JqO6aPxItt-11" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
